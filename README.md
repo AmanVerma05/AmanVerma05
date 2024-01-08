@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native, Redis**
 
-- 💬 Ask me about **ReactJS, NextJS, JavaScript, NodeJS, MySql, AWS,**
+- 💬 Ask me about **ReactJS, NextJS, JavaScript, NodeJS, MySql, AWS**
 
 - 📫 How to reach me **amanverma8050@gmail.com**
 
